@@ -1,3 +1,3 @@
 # first-uni-repo
 
-Testing github and git.
+Learning git and github.
